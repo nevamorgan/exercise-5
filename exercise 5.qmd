@@ -1,0 +1,44 @@
+---
+title: "exercise 5"
+author: "Neva Morgan"
+---
+
+# Attach the `palmerspenguins` package
+
+# 1. Examine at the dataset using the ?Help page
+
+# 2. what is the class of the penguins dataset?
+
+"character"
+
+# 3. what is the structure of the penguins dataset?
+
+"character"
+
+# 4. what are the dimensions of the penguins dataset?
+
+A tibble with 344 rows and 17 variables
+
+# 5. what are the column names of the penguins dataset?
+
+species, island, bill length (mm), bill depth (mm), flipper length (mm), body mass (g), sex, and year
+
+# 6. what type of data is `flipper_length_mm` and `Island`?
+
+flipper_length_mm = integer (character, as described by console), Island = character
+
+# 7. what is the mean flipper length of the penguins?
+
+200.9 millimeters
+
+# 8. what is the standard deviation of flipper length in the penguins?
+
+2
+
+# 9. what is the median body mass of the penguins?
+
+4050 grams
+
+# 10. what is the Island of the 100th penguin?
+
+Dream
